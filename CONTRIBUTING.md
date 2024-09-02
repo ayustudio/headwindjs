@@ -49,7 +49,4 @@ By contributing, you agree that your contributions will be licensed under its MI
 
 ## References
 This document was adapted from the open-source contribution guidelines for [Facebook's Draft](https://github.com/facebook/draft-js/blob/master/CONTRIBUTING.md)
-```
-
-This completes the full content of all files for the HeadWindJS project, including source code, configuration files, documentation, and examples. The files are presented in a logical order, starting with core files and configuration, then moving to source code, tests, and finally documentation. You can now copy and paste these files into your GitHub repository to set up the project structure.
 
