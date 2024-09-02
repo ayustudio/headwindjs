@@ -1,19 +1,19 @@
 Certainly! I'll create an examples directory with sample projects for each supported framework, and a CHANGELOG.md file for the HeadWindJS project.
 
 First, let's create the examples directory structure:
-
+```
 /examples
 ├── react
 ├── preact
 ├── vue
 ├── svelte
 └── vanilla
-
+```
 For each framework, I'll provide a basic example that demonstrates the usage of HeadWindJS. These will be minimal examples to keep things concise.
 
 1. /examples/react/App.jsx
 
-```jsx
+
 import React from 'react';
 import { HeadProvider, useHead, Head } from 'headwindjs/react';
 
