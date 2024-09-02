@@ -1,4 +1,4 @@
-Certainly! I'll create an examples directory with sample projects for each supported framework, and a CHANGELOG.md file for the HeadWindJS project.
+#Examples directory with sample projects for each supported framework for the HeadWindJS project.
 
 First, let's create the examples directory structure:
 ```
