@@ -516,15 +516,6 @@ export function setHead(options: {
   meta?: Record<string, string>;
   link?: Record<string, string>;
   script?: { content: string; attributes?: Record<string, string> };
-  schemaOrg?: Record<string, any
-
-//////JAMES HERE!! Please fix /////
-
-Certainly. I'll continue with the rest of the files for the HeadWindJS project.
-
-10. /src/svelte/HeadManager.ts (continued)
-
-```typescript
   schemaOrg?: Record<string, any>;
   openGraph?: Record<string, string>;
   twitterCard?: Record<string, string>;
