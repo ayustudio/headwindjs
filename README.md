@@ -1,6 +1,3 @@
-15. /README.md
-
-```markdown
 # HeadWindJS
 
 HeadWindJS is a lightweight, framework-agnostic solution for managing HTML head tags with enhanced SEO features. It supports React, Preact, Vue, Svelte, and vanilla JavaScript.
