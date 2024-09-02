@@ -36,6 +36,3 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 [Unreleased]: https://github.com/yourusername/headwindjs/compare/v1.0.0...HEAD
 [1.0.0]: https://github.com/yourusername/headwindjs/releases/tag/v1.0.0
-```
-
-These examples and the CHANGELOG.md provide a good starting point. The examples demonstrate how to use HeadWindJS with each supported framework, while the CHANGELOG.md sets up a structure for tracking changes in future releases. Remember to update the CHANGELOG.md as you develop new features or make changes to the library.
