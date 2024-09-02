@@ -1,8 +1,3 @@
-Certainly! I'll create a FAQ document for HeadWindJS. This will help users quickly find answers to common questions about the library. Let's create a new file called `FAQ.md` in the root directory of the project:
-
-/FAQ.md
-
-```markdown
 # HeadWindJS FAQ
 
 ## General Questions
