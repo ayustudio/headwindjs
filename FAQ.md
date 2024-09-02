@@ -79,4 +79,4 @@ A: You can open an issue on our GitHub repository. For urgent matters, consider 
 A: Yes, HeadWindJS is actively maintained. We regularly update the library to fix bugs, add new features, and ensure compatibility with the latest versions of supported frameworks.
 
 If you have any questions that aren't answered here, please don't hesitate to ask in our GitHub issues section or contribute to expanding this FAQ.
-```
+
