@@ -12,7 +12,7 @@ For each framework, I'll provide a basic example that demonstrates the usage of 
 
 1. /examples/react/App.jsx
 
-
+```jsx
 import React from 'react';
 import { HeadProvider, useHead, Head } from 'headwindjs/react';
 
