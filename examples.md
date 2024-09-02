@@ -244,6 +244,3 @@ onMount(() => {
 </body>
 </html>
 ```
-
-Now, let's create the CHANGELOG.md file:
-
