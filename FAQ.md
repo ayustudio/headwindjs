@@ -80,7 +80,3 @@ A: Yes, HeadWindJS is actively maintained. We regularly update the library to fi
 
 If you have any questions that aren't answered here, please don't hesitate to ask in our GitHub issues section or contribute to expanding this FAQ.
 ```
-
-This FAQ covers a range of common questions that users might have about HeadWindJS, from basic usage to troubleshooting and best practices. You can add this `FAQ.md` file to your project's root directory and link to it from your main README.md for easy access.
-
-Remember to keep this FAQ updated as you receive new common questions from users or as the library evolves with new features or changes.
