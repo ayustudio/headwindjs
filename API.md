@@ -1,10 +1,3 @@
-Certainly! I'll create an API documentation file for HeadWindJS. This will provide a comprehensive overview of the library's features and how to use them across different frameworks.
-
-Let's create a new file called `API.md` in the root directory of the project:
-
-/API.md
-
-```markdown
 # HeadWindJS API Documentation
 
 This document provides a detailed overview of the HeadWindJS API for each supported framework.
