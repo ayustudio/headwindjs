@@ -238,8 +238,3 @@ addTwitterCard({
   image: 'https://example.com/image.jpg'
 });
 ```
-
-This API documentation provides a comprehensive overview of HeadWindJS's features across all supported frameworks. Users can refer to this document for detailed information on how to use the library in their projects.
-```
-
-You can add this `API.md` file to your project's root directory. It provides a detailed reference for users of your library across all supported frameworks. You may want to link to this file from your main README.md for easy access to the API documentation.
